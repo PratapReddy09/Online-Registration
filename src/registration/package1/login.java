@@ -4,7 +4,7 @@ public class login {
 
 	public static void main(String[] args) {
 		 String str1="reddy";
-		String str="pratap";
+		String str="pratapreddy ";
 		 if(str1=="reddy"&&str=="pratap") {
 			 System.out.println("log-in");
 		 }else {
