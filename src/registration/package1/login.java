@@ -8,7 +8,7 @@ public class login {
 		 if(str1=="reddy"&&str=="pratap") {
 			 System.out.println("log-in");
 		 }else {
-			 System.out.println("failure");
+			 System.out.println("failure accepted");
 		 }
 
 	}
